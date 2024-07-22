@@ -109,14 +109,6 @@ opt-einsum==3.3.0
 packaging==20.9
 pandas==1.1.2
 pandocfilters==1.4.3
-<<<<<<< HEAD
-parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1607618318316/work
-pathtools==0.1.2
-patsy==0.5.1
-pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1602535608087/work
-pickle5==0.0.11
-pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-=======
 pathtools==0.1.2
 patsy==0.5.1
 pickle5==0.0.11
